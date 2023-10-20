@@ -16,3 +16,17 @@ Blockchain is a system of recording information in a way that makes it difficu
 MySQL is a popular, free-to-use, and open-source relational database management system (RDBMS) developed by Oracle. As with other relational systems, MySQL stores data using tables and rows, enforces referential integrity and uses structured query language (SQL) for data access.
 ![image](https://github.com/Abdullah-Lakhan/Decentralized-Blockchain-Enabled-Cross-Border-Remmitance/assets/135113015/51b7839e-d948-407f-a13e-e7d5a3966a7d)
 
+Related Papers
+
+[1] Secure blockchain assisted Internet of Medical Things architecture for data fusion-enabled cancer workflow 
+https://doi.org/10.1016/j.iot.2023.100928
+[2] RBEF: Ransomware Efficient Public Blockchain Framework for Digital Healthcare Application
+https://doi.org/10.3390/s23115256
+[3] Blockchain-Enabled Cybersecurity Efficient IIOHT Cyber-Physical System for Medical Applications
+10.1109/TNSE.2022.3213651
+[4] Blockchain multi-objective optimization approach-enabled secure and cost-efficient scheduling for the Internet of Medical Things (IoMT) in fog-cloud system
+https://doi.org/10.1007/s00500-022-07167-9
+
+Others papers are here 
+https://scholar.google.com/citations?hl=en&user=g1iVOlcAAAAJ&view_op=list_works&sortby=pubdate
+
